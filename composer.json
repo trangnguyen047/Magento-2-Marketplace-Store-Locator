@@ -1,5 +1,5 @@
 {
-    "name": "landofcoder/marketplace-seller-locator",
+    "name": "landofcoder/marketplace-locator",
     "description": "N/A",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
@@ -23,7 +23,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Lofmp\\marketplacesellerlocator\\": ""
+            "Lofmp\\marketplacelocator\\": ""
         }
     }
 }
